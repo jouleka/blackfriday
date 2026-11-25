@@ -4,7 +4,7 @@
   "description": "A cozy shared drawing board for two: draw, write a note or add a sticker, and it lands on your person's Home Screen and Lock Screen widget",
   "category": "lifestyle",
   "platforms": ["ios", "ipad"],
-  "deal": "50% off Plus Lifetime: $19.99 instead of $39.99, in-app, no code needed",
+  "deal": "50% off Plus Lifetime: $19.99, was $39.99. In-app, no code. Not in the French App Store",
   "pricing": "lifetime",
   "price": { "regular": 39.99, "sale": 19.99, "currency": "USD" },
   "discount": 50,
